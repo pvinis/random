@@ -16,3 +16,4 @@ Press buttons!
 When the player is pressing ±2 buttons than the target, one leds turns on.  
 When the player is pressing ±1 button, the second leds turns on.  
 When the correct number of buttons is pressed, and kept for half a second, all three leds turn on, and a celebratory music and light show take place :D.
+:+1:
